@@ -1,6 +1,6 @@
 # CSAPP: CacheLab
 
-Please see[实验报告](cachelab.pdf).
+Please see[Report](cachelab.pdf).
 
 
 - Run the simulation:
